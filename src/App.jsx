@@ -1,4 +1,4 @@
-import './App'
+import 'App.css'
 import Headerr from "./Header";
 import SearchSection from "./Search";
 import Footer from "./Footer"
